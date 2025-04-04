@@ -1,2 +1,2 @@
 # Advance_software_development
-SOFTWARE PROCESS Models
+Software Process Models
